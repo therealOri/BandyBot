@@ -28,7 +28,7 @@ If you do not have python3 installed, you can find it at the following links.
 - [Python3 Website](https://www.python.org/)
 - [Python3 - Windows](https://www.python.org/ftp/python/3.12.2/python-3.12.2-amd64.exe)
 __ __
-> If you need ANY help throughout this process, please make an [issue]() and or create a [discussion]()
+> If you need ANY help throughout this process, please make an [issue](https://github.com/therealOri/BandyBot/issues/new/choose) and or create a [discussion](https://github.com/therealOri/BandyBot/discussions/2)
 
 <br>
 <br>
