@@ -25,6 +25,7 @@ __ __
 If you do not have python3 installed, you can find it at the following links.
 > `pip` should be installed with the python installer.
 
+- [Git](https://git-scm.com/)
 - [Python3 Website](https://www.python.org/)
 - [Python3 - Windows](https://www.python.org/ftp/python/3.12.2/python-3.12.2-amd64.exe)
 __ __
