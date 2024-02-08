@@ -32,5 +32,10 @@ __ __
 
 <br>
 <br>
+<br>
 
-# Gallery
+# Support  |  Buy me a coffee <3
+Donate to me here:
+> - Don't have Cashapp? [Sign Up](https://cash.app/app/TKWGCRT)
+
+![image](https://user-images.githubusercontent.com/45724082/158000721-33c00c3e-68bb-4ee3-a2ae-aefa549cfb33.png)
