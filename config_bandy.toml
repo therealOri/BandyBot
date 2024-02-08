@@ -1,0 +1,12 @@
+TOKEN="" # The bots token.  !!! DO NOT SHARE. TOKEN IS NOT PUBLIC !!!
+bot_logo="" # Url/link to image/logo/icon, etc.
+
+server_id=1234567890 # Your server ID
+band_role_id=1234567890 # Role a user must have in order to copy messages.
+band_channel_id=1234567890 # Channel you want messages copied to.
+
+channel_ignore_list=[1234567890, 1234567890, 1234567890] # List of channel IDs you don't want th ebot to listen in on/to. (Won't read messages in these channels.)
+
+# true = Yes  |  false = No
+use_embeds=true # For if you want to use an embed for the messages being sent to the band channel or regular messages. (EXCLUDING attachments)
+mention_members=false # For if you want the messages being sent to the band channel to mention the member who sent the message or not.
